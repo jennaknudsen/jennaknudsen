@@ -15,7 +15,9 @@ Here are a few projects I am particularly proud of. More details about each proj
 A Tetris game I created from scratch using C# and Monogame. <a href="https://github.com/jonasknudsen/cs5410/tree/main/FinalProject-Tetris">GitHub</a>
 
 <div> 
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ </a>
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
  <img src="https://img.shields.io/badge/MonoGame-D54B23?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
@@ -25,7 +27,9 @@ A Tetris game I created from scratch using C# and Monogame. <a href="https://git
 A Lunar Lander game I created from scratch using C# and Monogame. [GitHub](https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander)
 
 <div> 
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ </a>
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
  <img src="https://img.shields.io/badge/MonoGame-D54B23?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
@@ -49,7 +53,9 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 I am very proficient with these languages and tools and use them frequently.
 
 <div>
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ </a>
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
