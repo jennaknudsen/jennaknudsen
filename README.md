@@ -8,11 +8,12 @@ I plan to graduate in December 2021. After graduation, I aspire to become a full
 
 ## Projects
 
-Here are a few projects I am particularly proud of. More details about each project can be found at the links below.
+<details>
+ <summary>
+Here are a few projects I am particularly proud of. 
+ </summary>
 
 ### [Tetris](https://github.com/jonasknudsen/cs5410/tree/main/FinalProject-Tetris) 
-
-A Tetris game I created from scratch using C# and Monogame.
 
 <div> 
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
@@ -30,9 +31,18 @@ A Tetris game I created from scratch using C# and Monogame.
  <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/tetris-game.png" width="600" />
 </a>
 
+A Tetris game I created from scratch using C# and Monogame.
+ 
+* The Tetris AI used in Attract Mode was based on results from Yiyuan Lee's Tetris AI training 
+  (training details [here](https://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/),
+  GitHub repo [here](https://github.com/LeeYiyuan/tetrisai)).
+* Game details:
+  * Uses the [Original Nintendo scoring system](https://tetris.fandom.com/wiki/Scoring#Original_Nintendo_Scoring_System).
+  * Uses [sticky gravity](https://tetris.fandom.com/wiki/Line_clear#Line_clear_gravity) on line clears.
+  * New level reached after every 10 line clears.
+* Persistent storage for this game stores high scores and control configs between sessions.
+ 
 ### [Lunar Lander](https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander)
-
-A Lunar Lander game I created from scratch using C# and Monogame. 
 
 <div> 
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
@@ -45,15 +55,20 @@ A Lunar Lander game I created from scratch using C# and Monogame.
   <img src="https://img.shields.io/badge/MonoGame-D54B23?style=for-the-badge&logo=.net&logoColor=white" />
  </a>
 </div>
-
+ 
 <a href="https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander">
  <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/lunar-lander-game.png" width="600" />
 </a>
 
+A Lunar Lander game I created from scratch using C# and Monogame. 
+ 
+* Terrain for this game is generated using the [midpoint displacement algorithm](https://bitesofcode.wordpress.com/2016/12/23/landscape-generation-using-midpoint-displacement/).
+* The lander's physics are calculated using a real-time physics simulation. 
+  * Lander thrust acceleration: 7 m/s^2.
+  * Moon's gravity acceleration: -1.62 m/s^2.
+* Persistent storage for this game stores high scores and control configs between sessions.
+ 
 ### [Dan's Bagel Shop](https://github.com/jonasknudsen/cs3450-7even) 
-
-A website I created with two colleagues for a course project. It simulates a bagel shop from the perspective of 
-a customer, an employee, a manager, and an owner. This webpage was created using the Django framework.
 
 <div>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -79,6 +94,11 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 <a href="https://github.com/jonasknudsen/cs3450-7even">
  <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/dans-bagel-shop.png" width="600" />
 </a>
+
+A website I created with two colleagues for a course project. It simulates a bagel shop from the perspective of 
+a customer, an employee, a manager, and an owner. This webpage was created using the Django framework.
+
+</details>
 
 ## Languages and Tools
 
