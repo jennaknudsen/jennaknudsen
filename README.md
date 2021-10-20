@@ -46,10 +46,8 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 
 ## Languages and Tools
 
-<details> 
- <summary>
-  I am very proficient with these languages and tools and use them frequently.
- </summary>
+I am very proficient with these languages and tools and use them frequently.
+
 <!--  <ul>
   <li> C# </li>
   <li> Java </li>
@@ -60,27 +58,25 @@ a customer, an employee, a manager, and an owner. This webpage was created using
   <li> Collaboration with other developers using Git and GitHub </li>
   <li> Developing using Windows, macOS, and Linux </li>
  </ul> -->
- <div>
-  <br />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Juypter-orange?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
- </div>
-</details>
+<div>
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+ <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+ <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+ <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+ <img src="https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white" />
+ <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Juypter-orange?style=for-the-badge&logo=Jupyter&logoColor=white" />
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
-<details>
+<!-- <details>
  <summary>
   In addition, I have used these languages and tools a moderate amount in the past.
  </summary>
@@ -92,7 +88,21 @@ a customer, an employee, a manager, and an owner. This webpage was created using
   <li> D3.js </li>
   <li> Microsoft SQL Server </li>
  </ul>
-</details>
+</details> -->
+
+<br />
+
+In addition, I have used these languages and tools a moderate amount in the past.
+
+<div>
+ <img src="https://img.shields.io/badge/Verilog-02569B?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+ <img src="https://img.shields.io/badge/D3.js-orange?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div>
 
 ## Interests
 
