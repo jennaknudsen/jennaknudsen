@@ -26,6 +26,10 @@ A Tetris game I created from scratch using C# and Monogame.
  </a>
 </div>
 
+<a href="https://github.com/jonasknudsen/cs5410/tree/main/FinalProject-Tetris">
+ <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/tetris-game.png" width="600" />
+</a>
+
 ### [Lunar Lander](https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander)
 
 A Lunar Lander game I created from scratch using C# and Monogame. 
@@ -41,6 +45,10 @@ A Lunar Lander game I created from scratch using C# and Monogame.
   <img src="https://img.shields.io/badge/MonoGame-D54B23?style=for-the-badge&logo=.net&logoColor=white" />
  </a>
 </div>
+
+<a href="https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander">
+ <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/lunar-lander-game.png" width="600" />
+</a>
 
 ### [Dan's Bagel Shop](https://github.com/jonasknudsen/cs3450-7even) 
 
@@ -67,6 +75,10 @@ a customer, an employee, a manager, and an owner. This webpage was created using
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
  </a>
 </div>
+
+<a href="https://github.com/jonasknudsen/cs3450-7even">
+ <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/dans-bagel-shop.png" width="600" />
+</a>
 
 ## Languages and Tools
 
