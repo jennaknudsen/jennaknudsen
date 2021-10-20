@@ -15,8 +15,9 @@ Here are a few projects I am particularly proud of. More details about each proj
 A Tetris game I created from scratch using C# and Monogame. [GitHub](https://github.com/jonasknudsen/cs5410/tree/main/FinalProject-Tetris)
 
 <div> 
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
- <img src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
+ <img src="https://img.shields.io/badge/MonoGame-D54B23?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
                                                                                                     
 #### Lunar Lander
@@ -24,8 +25,9 @@ A Tetris game I created from scratch using C# and Monogame. [GitHub](https://git
 A Lunar Lander game I created from scratch using C# and Monogame. [GitHub](https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander)
 
 <div> 
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
- <img src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
+ <img src="https://img.shields.io/badge/MonoGame-D54B23?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 
 #### Dan's Bagel Shop
