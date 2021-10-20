@@ -39,13 +39,13 @@ In addition, I have used the following languages and tools a fair amount:
 
 Here are a few projects I am particularly proud of:
 
-* Tetris
+* [Tetris](https://github.com/jonasknudsen/cs5410/tree/main/FinalProject-Tetris)
   * A Tetris game I created from scratch using C# and Monogame.
-* Lunar Lander
+* [Lunar Lander](https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander)
   * A Lunar Lander-type game I created from scratch using C# and Monogame.
-* Dan's Bagel Shop
+* [Dan's Bagel Shop](https://github.com/jonasknudsen/cs3450-7even)
   * A website I created with two colleagues for a course project. It simulates a bagel shop from the perspective of 
-    a customer, an employee, a manager, and an owner.
+    a customer, an employee, a manager, and an owner. This webpage was created using the Django framework.
 
 # Interests
 
@@ -57,7 +57,7 @@ I am primarily interested in learning how to use these tools:
 
 # Contact Me
 
-I am best reachedy by email at jonas.a.knudsen@gmail.com.
+I am best reached by email at jonas.a.knudsen@gmail.com.
 
 <!---
 jonasknudsen/jonasknudsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
