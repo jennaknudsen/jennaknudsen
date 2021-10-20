@@ -48,16 +48,6 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 
 I am very proficient with these languages and tools and use them frequently.
 
-<!--  <ul>
-  <li> C# </li>
-  <li> Java </li>
-  <li> Android Studio </li>
-  <li> Python </li>
-  <li> HTML/CSS/JavaScript </li>
-  <li> Ubuntu Server management using Bash and SSH </li>
-  <li> Collaboration with other developers using Git and GitHub </li>
-  <li> Developing using Windows, macOS, and Linux </li>
- </ul> -->
 <div>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -67,19 +57,45 @@ I am very proficient with these languages and tools and use them frequently.
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/Juypter-orange?style=for-the-badge&logo=Jupyter&logoColor=white" />
  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
  <img src="https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white" />
  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge" />
- <img src="https://img.shields.io/badge/Juypter-orange?style=for-the-badge&logo=Jupyter&logoColor=white" />
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<!-- <details>
- <summary>
-  In addition, I have used these languages and tools a moderate amount in the past.
- </summary>
+<br />
+
+<ul>
+  <li> C# </li>
+  <li> Java </li>
+  <li> Android Studio </li>
+  <li> Python </li>
+  <li> HTML/CSS/JavaScript </li>
+  <li> Anaconda/Juypter Notebook </li>
+  <li> Ubuntu Server management using Bash and SSH </li>
+  <li> Collaboration with other developers using Git and GitHub </li>
+  <li> Developing using Windows, macOS, and Linux </li>
+ </ul>
+
+<br />
+
+In addition, I have used these languages and tools a moderate amount in the past.
+
+<div>
+ <img src="https://img.shields.io/badge/Verilog-14354C?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+ <img src="https://img.shields.io/badge/D3.js-orange?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div>
+
+<br />
+
  <ul>
   <li> Verilog </li>
   <li> C/C++ </li>
@@ -88,21 +104,6 @@ I am very proficient with these languages and tools and use them frequently.
   <li> D3.js </li>
   <li> Microsoft SQL Server </li>
  </ul>
-</details> -->
-
-<br />
-
-In addition, I have used these languages and tools a moderate amount in the past.
-
-<div>
- <img src="https://img.shields.io/badge/Verilog-02569B?style=for-the-badge" />
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
- <img src="https://img.shields.io/badge/D3.js-orange?style=for-the-badge" />
- <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</div>
 
 ## Interests
 
