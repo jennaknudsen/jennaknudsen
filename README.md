@@ -98,6 +98,13 @@ A Lunar Lander game I created from scratch using C# and Monogame.
 A website I created with two colleagues for a course project. It simulates a bagel shop from the perspective of 
 a customer, an employee, a manager, and an owner. This webpage was created using the Django framework.
 
+* Various actions such as customer/employee account creation, placing an order, adding more inventory stock,
+  adding account funds to customer balances, etc. are supported.
+  * Customer accounts can be created by anyone, but employee accounts must be created by a manager.
+* The client sends various HTTP requests to the Django server, the Django server handles these requests using 
+  Python programs, and the server returns a new webpage back to the client.
+* This project uses an SQLite database to hold all information for customers, accounts, menu items, etc.
+
 </details>
 
 ## Languages and Tools
