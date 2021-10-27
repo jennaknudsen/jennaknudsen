@@ -41,7 +41,29 @@ A Tetris game I created from scratch using C# and Monogame.
   * Uses [sticky gravity](https://tetris.fandom.com/wiki/Line_clear#Line_clear_gravity) on line clears.
   * New level reached after every 10 line clears.
 * Persistent storage for this game stores high scores and control configs between sessions.
+
+### [Cross-Platform CLI Shell](https://github.com/jonasknudsen/cross-platform-cli-environment)
+<div>
+ <a href="https://dev.java/">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+ </a>
+ <a href="https://gradle.org/">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+ </a>
+</div>
+
+<a href="https://github.com/jonasknudsen/cross-platform-cli-environment">
+ <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/command-shell.png" width="600" />
+</a>
  
+A cross-platform command line interface written in Java. 
+
+* This shell is designed to work out-of-the-box with Windows, macOS, and Linux.
+* Processes can be ran by name from the command line.
+  * The shell checks files in the current directory as well as the system PATH.
+* This command shell supports builtins such as `list`, `cd`, and `history`.
+* Piping using the `|` symbol is supported between two processes.
+
 ### [Lunar Lander](https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander)
 
 <div> 
