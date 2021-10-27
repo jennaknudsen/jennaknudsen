@@ -56,7 +56,7 @@ A Tetris game I created from scratch using C# and Monogame.
  <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/command-shell.png" width="600" />
 </a>
  
-A cross-platform command line interface written in Java. 
+A cross-platform command-line interface I wrote in Java. 
 
 * This shell is designed to work out-of-the-box with Windows, macOS, and Linux.
 * Processes can be ran by name from the command line.
