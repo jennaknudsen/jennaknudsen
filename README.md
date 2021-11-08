@@ -153,12 +153,14 @@ a customer, an employee, a manager, and an owner. This webpage was created using
   In addition, I have used these languages and tools a moderate amount in the past.
  </summary>
  <ul>
-  <li> Verilog </li>
+  <li> Node.js </li>
+  <li> MongoDB </li>
+  <li> Docker </li>
   <li> C/C++ </li>
   <li> Kotlin </li>
+  <li> Microsoft SQL Server </li>
   <li> Django </li>
   <li> D3.js </li>
-  <li> Microsoft SQL Server </li>
  </ul>
 </details>
 
@@ -166,8 +168,9 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 
 I am primarily interested in learning how to use:
 
-* Node.js
-* Docker
+* React.js
+* Angular.js
+* PHP
 * Arduino
 
 Outside of programming and software development, my interests include meal-prepping and playing competitive Super Smash Bros.
