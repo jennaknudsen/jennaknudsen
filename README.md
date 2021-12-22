@@ -1,7 +1,7 @@
 ## About Me
 
-My name is Jonas Knudsen. I am 22 years old, and I am pursuing a bachelor's degree in Computer Science at Utah State University. 
-I plan to graduate in December 2021. After graduation, I aspire to become a full-time, full-stack developer.
+My name is Jonas Knudsen. I am 22 years old, and I have a bachelor's degree in Computer Science at Utah State University. 
+I graduated in December 2021, and I aspire to become a full-time, full-stack developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasknudsen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasknudsen&hide_title=true&count_private=true&include_all_commits=true&hide_rank=true)
