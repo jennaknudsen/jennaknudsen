@@ -176,6 +176,11 @@ I'm always willing to learn new programming languages and frameworks, and right 
 
 Outside of programming and software development, my interests include meal-prepping and playing competitive Super Smash Bros.
 
+## Other Information
+
+I came out as transgender (she/her) and began my social transition in November 2021, so many commits in my GitHub repositories are listed under my deadname 
+(Jonas Knudsen). Rest assured, I am the same person now as I was under my deadname—it's not an identical twin who wrote my previous code 😉
+
 ## Contact Me
 
 I am best reached by email at jennaknudsen99@gmail.com.
