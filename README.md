@@ -3,8 +3,8 @@
 My name is Jenna Knudsen. I am 22 years old, and I have a bachelor's degree in Computer Science at Utah State University. 
 I graduated from Utah State University in December 2021, and I aspire to become a full-time, full-stack developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasknudsen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasknudsen&hide_title=true&count_private=true&include_all_commits=true&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennaknudsen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jennaknudsen&hide_title=true&count_private=true&include_all_commits=true&hide_rank=true)
 
 ## Projects
 
@@ -13,7 +13,7 @@ I graduated from Utah State University in December 2021, and I aspire to become 
 Here are a few projects I am particularly proud of. 
  </summary>
 
-### [Tetris](https://github.com/jonasknudsen/cs5410/tree/main/FinalProject-Tetris) 
+### [Tetris](https://github.com/jennaknudsen/cs5410/tree/main/FinalProject-Tetris) 
 
 <div> 
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
@@ -27,8 +27,8 @@ Here are a few projects I am particularly proud of.
  </a>
 </div>
 
-<a href="https://github.com/jonasknudsen/cs5410/tree/main/FinalProject-Tetris">
- <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/tetris-game.png" width="600" />
+<a href="https://github.com/jennaknudsen/cs5410/tree/main/FinalProject-Tetris">
+ <img src="https://raw.githubusercontent.com/jennaknudsen/jennaknudsen/main/images/tetris-game.png" width="600" />
 </a>
 
 A Tetris game I created from scratch using C# and Monogame.
@@ -42,7 +42,7 @@ A Tetris game I created from scratch using C# and Monogame.
   * New level reached after every 10 line clears.
 * Persistent storage for this game stores high scores and control configs between sessions.
 
-### [Cross-Platform CLI Shell](https://github.com/jonasknudsen/cross-platform-cli-environment)
+### [Cross-Platform CLI Shell](https://github.com/jennaknudsen/cross-platform-cli-environment)
 <div>
  <a href="https://dev.java/">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -52,8 +52,8 @@ A Tetris game I created from scratch using C# and Monogame.
  </a>
 </div>
 
-<a href="https://github.com/jonasknudsen/cross-platform-cli-environment">
- <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/command-shell.png" width="600" />
+<a href="https://github.com/jennaknudsen/cross-platform-cli-environment">
+ <img src="https://raw.githubusercontent.com/jennaknudsen/jennaknudsen/main/images/command-shell.png" width="600" />
 </a>
  
 A cross-platform command-line interface I wrote in Java. 
@@ -64,7 +64,7 @@ A cross-platform command-line interface I wrote in Java.
 * This command shell supports builtins such as `list`, `cd`, and `history`.
 * Piping using the `|` symbol is supported between two processes.
 
-### [Lunar Lander](https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander)
+### [Lunar Lander](https://github.com/jennaknudsen/cs5410/tree/main/Assn3-LunarLander)
 
 <div> 
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
@@ -78,8 +78,8 @@ A cross-platform command-line interface I wrote in Java.
  </a>
 </div>
  
-<a href="https://github.com/jonasknudsen/cs5410/tree/main/Assn3-LunarLander">
- <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/lunar-lander-game.png" width="600" />
+<a href="https://github.com/jennaknudsen/cs5410/tree/main/Assn3-LunarLander">
+ <img src="https://raw.githubusercontent.com/jennaknudsen/jennaknudsen/main/images/lunar-lander-game.png" width="600" />
 </a>
 
 A Lunar Lander game I created from scratch using C# and Monogame. 
@@ -90,7 +90,7 @@ A Lunar Lander game I created from scratch using C# and Monogame.
   * Moon's gravity acceleration: -1.62 m/s^2.
 * Persistent storage for this game stores high scores and control configs between sessions.
  
-### [Dan's Bagel Shop](https://github.com/jonasknudsen/cs3450-7even) 
+### [Dan's Bagel Shop](https://github.com/jennaknudsen/cs3450-7even) 
 
 <div>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -113,8 +113,8 @@ A Lunar Lander game I created from scratch using C# and Monogame.
  </a>
 </div>
 
-<a href="https://github.com/jonasknudsen/cs3450-7even">
- <img src="https://raw.githubusercontent.com/jonasknudsen/jonasknudsen/main/images/dans-bagel-shop.png" width="600" />
+<a href="https://github.com/jennaknudsen/cs3450-7even">
+ <img src="https://raw.githubusercontent.com/jennaknudsen/jennaknudsen/main/images/dans-bagel-shop.png" width="600" />
 </a>
 
 A website I created with two colleagues for a course project. It simulates a bagel shop from the perspective of 
@@ -178,4 +178,4 @@ Outside of programming and software development, my interests include meal-prepp
 
 ## Contact Me
 
-I am best reached by email at jonas.a.knudsen@gmail.com.
+I am best reached by email at jennaknudsen99@gmail.com.
