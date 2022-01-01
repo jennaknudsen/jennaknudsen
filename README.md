@@ -168,8 +168,8 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 
 I'm always willing to learn new programming languages and frameworks, and right now I am especially interested in learning how to use:
 
-* React.js
-* Angular.js
+* React
+* AngularJS
 * TypeScript
 * PHP
 * Arduino
