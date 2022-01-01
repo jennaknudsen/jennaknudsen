@@ -169,7 +169,7 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 I'm always willing to learn new programming languages and frameworks, and right now I am especially interested in learning how to use:
 
 * React
-* AngularJS
+* Angular
 * TypeScript
 * PHP
 * Arduino
