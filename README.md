@@ -141,6 +141,8 @@ a customer, an employee, a manager, and an owner. This webpage was created using
   <li> Android Studio </li>
   <li> Python </li>
   <li> HTML/CSS/JavaScript </li>
+  <li> Node.js </li>
+  <li> Microsoft SQL Server </li>
   <li> Anaconda/Juypter Notebook </li>
   <li> Ubuntu Server management using Bash and SSH </li>
   <li> Collaboration with other developers using Git and GitHub </li>
@@ -153,12 +155,10 @@ a customer, an employee, a manager, and an owner. This webpage was created using
   In addition, I have used these languages and tools a moderate amount in the past.
  </summary>
  <ul>
-  <li> Node.js </li>
   <li> MongoDB </li>
   <li> Docker </li>
   <li> C/C++ </li>
   <li> Kotlin </li>
-  <li> Microsoft SQL Server </li>
   <li> Django </li>
   <li> D3.js </li>
  </ul>
