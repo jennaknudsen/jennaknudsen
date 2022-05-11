@@ -178,8 +178,7 @@ Outside of programming and software development, my interests include meal-prepp
 
 ## Other Information
 
-I came out as transgender (she/her) and began my social transition in November 2021, so many commits in my GitHub repositories are listed under my deadname 
-(Jonas Knudsen). Rest assured, I am the same person now as I was under my deadname—it's not an identical twin who wrote my previous code 😉
+I came out as transgender (she/her) and began my social transition in November 2021, so many commits in my GitHub repositories are listed under my deadname. Rest assured, I am the same person now as I was under my deadname—it's not an identical twin who wrote my previous code 😉
 
 ## Contact Me
 
