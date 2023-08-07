@@ -133,15 +133,16 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 
 <details>
  <summary>
-  I am very proficient with these languages and tools and use them frequently.
+  I am very proficient with these languages and tools and have used them extensively.
  </summary>
 <ul>
   <li> C# </li>
   <li> Java </li>
-  <li> Android Studio </li>
   <li> Python </li>
   <li> HTML/CSS/JavaScript </li>
   <li> Node.js </li>
+  <li> TypeScript </li>
+  <li> Angular </li>
   <li> Microsoft SQL Server </li>
   <li> Anaconda/Juypter Notebook </li>
   <li> Ubuntu Server management using Bash and SSH </li>
@@ -157,6 +158,7 @@ a customer, an employee, a manager, and an owner. This webpage was created using
  <ul>
   <li> MongoDB </li>
   <li> Docker </li>
+  <li> Android Studio </li>
   <li> C/C++ </li>
   <li> Kotlin </li>
   <li> Django </li>
@@ -169,8 +171,6 @@ a customer, an employee, a manager, and an owner. This webpage was created using
 I'm always willing to learn new programming languages and frameworks, and right now I am especially interested in learning how to use:
 
 * React
-* Angular
-* TypeScript
 * PHP
 * Arduino
 
@@ -178,7 +178,7 @@ Outside of programming and software development, my interests include meal-prepp
 
 ## Other Information
 
-I came out as transgender (she/her) and began my social transition in November 2021, so many commits in my GitHub repositories are listed under my deadname. Rest assured, I am the same person now as I was under my deadname—it's not an identical twin who wrote my previous code 😉
+I came out as transgender (she/her) and began my social transition in November 2021, so many commits in my GitHub repositories are listed under a different name. Rest assured, I am the same person now as I was under my deadname—it's not an identical twin who wrote my previous code 😉
 
 ## Contact Me
 
