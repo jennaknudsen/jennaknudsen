@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Jenna Knudsen. I am 24 years old, and I graduated from Utah State University in 2021 
+My name is Jenna Knudsen. I am 26 years old, and I graduated from Utah State University in 2021 
 with a bachelor's degree in Computer Science. I am currently a full-time full-stack developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennaknudsen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
