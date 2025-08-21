@@ -174,7 +174,7 @@ I'm always willing to learn new programming languages and frameworks, and right 
 * PHP
 * Arduino
 
-Outside of programming and software development, my interests include meal-prepping and playing competitive Super Smash Bros.
+Outside of programming and software development, my interests include meal-prepping and playing competitive Pokemon TCG.
 
 ## Contact Me
 
